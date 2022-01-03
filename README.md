@@ -1,9 +1,9 @@
 # Manifold-learning
 
-This directory contains the code for manifold lerning, it has three demos: Demo_Sphere_PGA, Demo_Sphere_K_means_PGA and Demo_CC_K_means_PGA. They show the results of principal geodesic analysis (PGA) and K-mean PGA using 3D sphere and 2D corpus callosum data.
+This directory contains the code for manifold learning, and it has three demos: Demo_Sphere_PGA, Demo_Sphere_K_means_PGA, and Demo_CC_K_means_PGA. They show the results of principal geodesic analysis (PGA) and K-mean PGA using 3D sphere and 2D corpus callosum data.
 
 
-It includes two important concepts: Logarithmic (Log) map and Exponential (Exp) map, as shown in following figure
+It includes two important concepts: Logarithmic (Log) map and Exponential (Exp) map, as shown in the following figure
 <p align="center">
   <img src="./Figs/mani.png" width="50%"> 
 </p>  
